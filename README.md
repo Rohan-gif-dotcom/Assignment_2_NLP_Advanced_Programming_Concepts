@@ -119,5 +119,3 @@ python Question1/task1_text_extraction.py
 
 Follow the task-specific instructions for further details on the outputs.
 
----
-
