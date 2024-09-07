@@ -1,4 +1,4 @@
-name: assn
+name: assignment2_env
 channels:
   - defaults
   - conda-forge
